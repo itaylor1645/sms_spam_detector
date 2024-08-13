@@ -1,4 +1,4 @@
-# sms_spam_detector
+# SMS Spam Detector
 
 This project provides a simple web application that classifies SMS text messages as either "ham" (not spam) or "spam" using a pre-trained machine learning model. The app is built using Gradio, a Python library that allows you to create user-friendly interfaces for machine learning models.
 
